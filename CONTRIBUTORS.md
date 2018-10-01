@@ -63,3 +63,9 @@ Place: Singapore, SG
 About: I am currently a NUS undergraduate Year 2 Computer Science Student. My field of interest is towards Software Engineering and Mobile App Development.
 Programming Language: Java, C, HTML, CSS, Kotlin
 Email: josephlee050@gmail.com
+
+Name: [Juan Medina](https://github.com/JAmixer)
+Place: Andújar (Spain)
+About: I'm studying Computer Engineering and still breathing.
+Programming Language: C++, Java, and a bit of Ruby
+Email: jmixer2@gmail.com
